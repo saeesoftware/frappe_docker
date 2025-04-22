@@ -1,18 +1,18 @@
 [
   {
-    "url": "https://github.com/frappe/erpnext",
+    "url": "https://github.com/saeesoftware/erpnext",
     "branch": "version-15"
   },
   {
-    "url": "https://github.com/frappe/payments",
+    "url": "https://github.com/saeesoftware/payments",
     "branch": "version-15"
   },
   {
-    "url": "https://github.com/frappe/hrms",
+    "url": "https://github.com/saeesoftware/hrms",
     "branch": "version-15"
   },
   {
-    "url": "https://github.com/resilient-tech/india-compliance",
+    "url": "https://github.com/saeesoftware/india-compliance",
     "branch": "version-15"
   }
 ]
